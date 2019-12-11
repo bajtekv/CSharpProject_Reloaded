@@ -22,8 +22,8 @@
  *  - Při stisknutí (t) se spustí testování programu
  *  - Jsou definované 3 funkce, které vrací požadovanou hodnotu a je tak možné srovnat hodnotu s přechozím výsledkem
  *  
- * \author Václav Bajtek, Martin Šmotek, Jiří Šrytr
- * \version 1.1
+ * \author Václav Bajtek, Jiří Šmotek, Jiří Šlitr
+ * \version 1.0
  * \date 2019-12-5
  */
 
