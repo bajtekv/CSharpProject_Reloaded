@@ -1,0 +1,16 @@
+C:\Users\win10\source\repos\soustavy2\soustavy2\bin\Debug\soustavy2.exe.config
+C:\Users\win10\source\repos\soustavy2\soustavy2\bin\Debug\soustavy2.exe
+C:\Users\win10\source\repos\soustavy2\soustavy2\bin\Debug\soustavy2.pdb
+C:\Users\win10\source\repos\soustavy2\soustavy2\obj\Debug\soustavy2.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\soustavy2\soustavy2\obj\Debug\soustavy2.exe
+C:\Users\win10\source\repos\soustavy2\soustavy2\obj\Debug\soustavy2.pdb
+C:\Users\win10\source\repos\soustavy2\soustavy2\bin\Debug\Colorful.Console.dll
+C:\Users\win10\source\repos\soustavy2\soustavy2\obj\Debug\soustavy2.csproj.CopyComplete
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\bin\Debug\soustavy2.exe.config
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\bin\Debug\soustavy2.exe
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\bin\Debug\soustavy2.pdb
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\bin\Debug\Colorful.Console.dll
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\obj\Debug\soustavy2.csprojAssemblyReference.cache
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\obj\Debug\soustavy2.csproj.CopyComplete
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\obj\Debug\soustavy2.exe
+C:\Users\win10\Documents\GitHub\CSharpProject_Reloaded\soustavy2\obj\Debug\soustavy2.pdb
